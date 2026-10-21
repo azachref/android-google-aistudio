@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Somnia</string>
+    <string name="app_tagline">Ambient Soundscapes &amp; Sleep Mixer</string>
+    <string name="sound_rain">Rain</string>
+    <string name="sound_rain_desc">Gentle soothing rainfall</string>
+    <string name="sound_thunder">Thunder</string>
+    <string name="sound_thunder_desc">Distant rolling rumbles</string>
+    <string name="sound_wind">Wind</string>
+    <string name="sound_wind_desc">Soft nocturnal breeze</string>
+    <string name="sound_cafe">Cafe</string>
+    <string name="sound_cafe_desc">Warm coffeehouse ambiance</string>
+    <string name="sound_lofi">Lofi</string>
+    <string name="sound_lofi_desc">Cozy chill study beats</string>
+    <string name="sound_noise">White Noise</string>
+    <string name="sound_noise_desc">Pure steady static frequency</string>
+    <string name="sound_traffic">City Traffic</string>
+    <string name="sound_traffic_desc">Distant urban flow</string>
+    <string name="sound_cars">Cars Passing</string>
+    <string name="sound_cars_desc">Rhythmic highway glide</string>
+    <string name="sound_river">River Stream</string>
+    <string name="sound_river_desc">Flowing mountain brook</string>
+    <string name="sound_birds">Forest Birds</string>
+    <string name="sound_birds_desc">Gentle morning birdsong</string>
+
+    <string name="preset_deep_sleep">Deep Sleep Rain</string>
+    <string name="preset_cafe_focus">Cafe Focus</string>
+    <string name="preset_stormy_night">Stormy Night</string>
+    <string name="preset_chill_study">Chill Study</string>
+    <string name="preset_pure_static">Quiet Focus</string>
+    <string name="preset_nature_haven">Nature Haven</string>
+
+    <string name="sleep_timer">Sleep Timer</string>
+    <string name="timer_off">Timer Off</string>
+    <string name="timer_set_for">Set for %1$s</string>
+    <string name="fade_out_active">Fading out smoothly&#8230;</string>
+    <string name="master_volume">Master Volume</string>
+    <string name="play_all">Play Active</string>
+    <string name="pause_all">Pause All</string>
+    <string name="mute">Mute</string>
+    <string name="unmute">Unmute</string>
+    <string name="save_preset">Save Current Mix</string>
+    <string name="preset_name_hint">Mix Name (e.g., Midnight Cafe)</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="custom_timer">Custom Minutes</string>
+    <string name="favorites_title">Saved Mixes</string>
+    <string name="active_sounds_badge">%1$d playing</string>
+
+    <string name="manage_sounds">Manage Sounds</string>
+    <string name="add_sound">Add Sound</string>
+    <string name="add_new_sound_title">Add Custom Sound</string>
+    <string name="sound_name_hint">Sound Name (e.g., Campfire)</string>
+    <string name="choose_icon">Choose Icon</string>
+    <string name="select_audio_file">Choose Audio File</string>
+    <string name="audio_file_selected">Audio file selected</string>
+    <string name="built_in_badge">Default</string>
+    <string name="custom_badge">Custom</string>
+    <string name="built_in_sounds">Built-in Soundscapes</string>
+    <string name="custom_sounds">My Custom Sounds</string>
+    <string name="no_custom_sounds">No custom sounds added yet. Tap Add Sound to import your own MP3 files.</string>
+</resources>

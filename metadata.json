@@ -1,0 +1,6 @@
+{
+  "name": "Somnia",
+  "description": "Offline white noise and ambient sound mixer with gapless background playback, sleep timer, and custom presets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
